@@ -1,0 +1,10 @@
+cons_prov_id: BIGINT
+consent_id: BIGINT
+content: CLOB
+cons_prov_tp_cd: BIGINT
+create_date: TIMESTAMP
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

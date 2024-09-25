@@ -1,0 +1,7 @@
+entitlement_id: BIGINT
+entitle_rule_name: VARCHAR(255)(255)
+entitle_rule_desc: VARCHAR(255)(255)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

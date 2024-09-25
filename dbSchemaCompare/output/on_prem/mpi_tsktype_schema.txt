@@ -1,0 +1,14 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+tsktypeno: SMALLINT
+tsktype: VARCHAR(32)(32)
+tsktypelabel: VARCHAR(32)(32)
+tsktypecat: VARCHAR(32)(32)
+tskkind: CHAR(1)(1)
+islinking: CHAR(1)(1)
+iscontent: CHAR(1)(1)
+initialtskstatno: SMALLINT
+supervisortype: CHAR(1)(1)
+supervisorrecno: INTEGER
+expdays: SMALLINT

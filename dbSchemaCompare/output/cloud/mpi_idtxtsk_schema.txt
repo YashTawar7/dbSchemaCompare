@@ -1,0 +1,16 @@
+memrecno: BIGINT
+srcrecno: SMALLINT
+caudrecno: BIGINT
+maudrecno: BIGINT
+recctime: TIMESTAMP
+recmtime: TIMESTAMP
+tskrecno: BIGINT
+tsktypeno: SMALLINT
+tskstatno: SMALLINT
+ownertype: CHAR(1)(1)
+ownerrecno: SMALLINT
+prevownertype: CHAR(1)(1)
+prevownerrecno: SMALLINT
+setrecno: BIGINT
+HINT: VARCHAR(255)(255)
+text: VARCHAR(255)(255)

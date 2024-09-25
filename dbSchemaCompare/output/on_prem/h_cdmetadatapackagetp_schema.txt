@@ -1,0 +1,9 @@
+h_metadata_package_tp_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+metadata_package_tp_cd: BIGINT
+metadata_package_name: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

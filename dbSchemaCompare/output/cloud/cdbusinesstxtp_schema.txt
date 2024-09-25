@@ -1,0 +1,10 @@
+business_tx_tp_cd: BIGINT
+name: VARCHAR(50)(50)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+tx_log_ind: CHAR(1)(1)
+tx_object_tp: CHAR(1)(1)
+deprecated_since: VARCHAR(20)(20)
+dwl_prod_tp_cd: BIGINT
+parent_business_tx_tp_cd: BIGINT

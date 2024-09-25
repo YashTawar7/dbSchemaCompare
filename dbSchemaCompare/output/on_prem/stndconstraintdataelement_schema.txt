@@ -1,0 +1,8 @@
+stnd_constraint_data_ele_id: BIGINT
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+element_name: VARCHAR(50)(50)
+operand_tp_cd: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT

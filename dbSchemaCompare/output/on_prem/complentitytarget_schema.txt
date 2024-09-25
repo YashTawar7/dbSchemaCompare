@@ -1,0 +1,8 @@
+compl_ent_targ_id: BIGINT
+compl_entity_id: BIGINT
+compl_target_id: BIGINT
+target_instance_pk: BIGINT
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

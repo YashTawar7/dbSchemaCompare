@@ -1,0 +1,5 @@
+extset_condval_id: BIGINT
+cond_val_tp_cd: BIGINT
+extension_set_id: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

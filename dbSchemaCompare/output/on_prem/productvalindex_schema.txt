@@ -1,0 +1,15 @@
+productval_index_id: BIGINT
+spec_srch_attr_id: BIGINT
+product_id: BIGINT
+productval_id: BIGINT
+boolean_value: CHAR(1)(1)
+string_value: VARCHAR(255)(255)
+decimal_value: DECIMAL(31, 19)
+long_value: BIGINT
+datetime_value: TIMESTAMP
+date_value: TIMESTAMP
+time_value: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+string_value_upper: VARCHAR(255)(255)

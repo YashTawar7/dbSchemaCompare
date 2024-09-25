@@ -1,0 +1,4 @@
+metadata_package_tp_cd: BIGINT
+metadata_package_name: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

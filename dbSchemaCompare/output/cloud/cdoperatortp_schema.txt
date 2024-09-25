@@ -1,0 +1,7 @@
+operator_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+implem_tp_code: CHAR(1)(1)
+java_class_path: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

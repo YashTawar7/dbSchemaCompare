@@ -1,0 +1,9 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+handlerno: INTEGER
+callbacktype: INTEGER
+ixncode: VARCHAR(16)(16)
+handlerseqno: INTEGER
+handlername: VARCHAR(255)(255)
+handlerargs: VARCHAR(255)(255)

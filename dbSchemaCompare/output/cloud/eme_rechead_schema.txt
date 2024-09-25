@@ -1,0 +1,4 @@
+recno: BIGINT
+srcrecno: SMALLINT
+srcid: VARCHAR(240)(240)
+txnid: BIGINT

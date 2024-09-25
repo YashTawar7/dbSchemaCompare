@@ -1,0 +1,4 @@
+memrecno: BIGINT
+srcrecno: SMALLINT
+audrecno: BIGINT
+wrkowner: VARCHAR(255)(255)

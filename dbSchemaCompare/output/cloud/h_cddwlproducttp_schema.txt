@@ -1,0 +1,9 @@
+h_dwl_prod_tp_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+dwl_prod_tp_cd: BIGINT
+dwl_prod_name: VARCHAR(20)(20)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP

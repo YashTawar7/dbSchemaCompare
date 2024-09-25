@@ -1,0 +1,16 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+attrrecno: SMALLINT
+memtypeno: SMALLINT
+segcode: VARCHAR(12)(12)
+attrcode: VARCHAR(12)(12)
+attrname: VARCHAR(40)(40)
+attrlabel: VARCHAR(40)(40)
+attrdesc: VARCHAR(255)(255)
+edtcode: VARCHAR(12)(12)
+isvirtual: CHAR(1)(1)
+adtrole: SMALLINT
+nsactive: SMALLINT
+nsexists: SMALLINT
+msfilter: VARCHAR(8)(8)

@@ -1,0 +1,11 @@
+h_stnd_constraint_param_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+stnd_constraint_param_id: BIGINT
+stnd_constraint_id: BIGINT
+param_value: VARCHAR(255)(255)
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT

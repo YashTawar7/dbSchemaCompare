@@ -1,0 +1,7 @@
+lang_tp_cd: BIGINT
+prodrel_tp_cd: BIGINT
+from_to_name: VARCHAR(120)(120)
+to_from_name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

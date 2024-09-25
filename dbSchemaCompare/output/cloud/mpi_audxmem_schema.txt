@@ -1,0 +1,2 @@
+audrecno: BIGINT
+memrecno: BIGINT

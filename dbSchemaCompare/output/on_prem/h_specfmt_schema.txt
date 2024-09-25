@@ -1,0 +1,14 @@
+h_spec_format_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+spec_format_id: BIGINT
+spec_id: BIGINT
+external_xsd: CLOB
+internal_xsd: CLOB
+localized_xsd: CLOB
+format_version: BIGINT
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

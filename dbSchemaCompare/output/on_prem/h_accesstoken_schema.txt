@@ -1,0 +1,12 @@
+h_access_token_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+access_token_id: BIGINT
+access_token_value: VARCHAR(50)(50)
+global_ind: CHAR(1)(1)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

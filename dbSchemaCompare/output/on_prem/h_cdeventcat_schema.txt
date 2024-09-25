@@ -1,0 +1,14 @@
+h_lang_tp_cd: BIGINT
+h_event_cat_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+lang_tp_cd: BIGINT
+event_cat_cd: BIGINT
+category_name: VARCHAR(120)(120)
+event_horizon: BIGINT
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

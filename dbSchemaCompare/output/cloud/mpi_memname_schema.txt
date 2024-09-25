@@ -1,0 +1,14 @@
+memrecno: BIGINT
+memseqno: INTEGER
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+attrrecno: SMALLINT
+asaidxno: SMALLINT
+onmlast: VARCHAR(75)(75)
+onmfirst: VARCHAR(30)(30)
+onmmiddle: VARCHAR(30)(30)
+onmprefix: VARCHAR(10)(10)
+onmsuffix: VARCHAR(10)(10)
+onmdegree: VARCHAR(10)(10)
+onmtitle: VARCHAR(20)(20)

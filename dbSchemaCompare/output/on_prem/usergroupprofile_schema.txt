@@ -1,0 +1,6 @@
+user_grp_prof_id: BIGINT
+group_profile_id: BIGINT
+user_profile_id: BIGINT
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+active_ind: CHAR(1)(1)

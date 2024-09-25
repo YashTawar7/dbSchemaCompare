@@ -1,0 +1,6 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+bktfunccode: VARCHAR(12)(12)
+genfunccode: VARCHAR(12)(12)
+bktgendesc: VARCHAR(255)(255)

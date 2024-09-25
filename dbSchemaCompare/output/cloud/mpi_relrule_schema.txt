@@ -1,0 +1,13 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+reltypeno: INTEGER
+relruleseqno: INTEGER
+srcrecnoleft: INTEGER
+attrrecnoleft: INTEGER
+fldnameleft: VARCHAR(40)(40)
+isrefleft: CHAR(1)(1)
+srcrecnoright: INTEGER
+attrrecnoright: INTEGER
+fldnameright: VARCHAR(40)(40)
+isrefright: CHAR(1)(1)

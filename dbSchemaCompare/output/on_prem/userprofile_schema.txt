@@ -1,0 +1,6 @@
+user_profile_id: BIGINT
+user_id: VARCHAR(80)(80)
+cont_id: BIGINT
+password_value: VARCHAR(50)(50)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP

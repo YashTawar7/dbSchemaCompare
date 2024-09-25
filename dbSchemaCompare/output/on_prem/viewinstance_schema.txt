@@ -1,0 +1,5 @@
+view_instance_id: BIGINT
+name: VARCHAR(50)(50)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

@@ -1,0 +1,8 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+libcode: VARCHAR(12)(12)
+platcode: VARCHAR(12)(12)
+libname: VARCHAR(40)(40)
+loadfunc: VARCHAR(40)(40)
+freefunc: VARCHAR(40)(40)

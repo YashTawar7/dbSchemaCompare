@@ -1,0 +1,13 @@
+daudrecno: BIGINT
+memrecno: BIGINT
+memseqno: INTEGER
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+attrrecno: SMALLINT
+asaidxno: SMALLINT
+phicc: VARCHAR(3)(3)
+pharea: VARCHAR(5)(5)
+phnumber: VARCHAR(40)(40)
+phextn: VARCHAR(6)(6)
+phcmnt: VARCHAR(20)(20)

@@ -1,0 +1,4 @@
+group_profile_id: BIGINT
+group_name: VARCHAR(80)(80)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP

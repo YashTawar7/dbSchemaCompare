@@ -1,0 +1,10 @@
+match_result_id: BIGINT
+suspect_id: BIGINT
+match_result: VARCHAR(20)(20)
+match_detail: XML
+match_engine_tp_cd: BIGINT
+spec_id: BIGINT
+spec_fmt_id: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

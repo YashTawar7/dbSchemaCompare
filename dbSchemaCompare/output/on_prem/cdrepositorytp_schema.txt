@@ -1,0 +1,7 @@
+repository_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+content_system: VARCHAR(250)(250)
+no_of_keys: BIGINT
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

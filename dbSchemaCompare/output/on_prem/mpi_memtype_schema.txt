@@ -1,0 +1,11 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+memtypeno: SMALLINT
+memtype: VARCHAR(32)(32)
+memtypelabel: VARCHAR(32)(32)
+memtypecat: VARCHAR(32)(32)
+memtypedesc: VARCHAR(255)(255)
+optputmode: CHAR(1)(1)
+dvdcode: VARCHAR(12)(12)
+hashistory: CHAR(1)(1)

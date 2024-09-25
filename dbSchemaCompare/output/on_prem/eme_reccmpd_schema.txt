@@ -1,0 +1,4 @@
+recno: BIGINT
+srcrecno: SMALLINT
+cmpseqno: SMALLINT
+cmpval: VARCHAR(1020)(1020)

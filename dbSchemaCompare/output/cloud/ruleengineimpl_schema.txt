@@ -1,0 +1,7 @@
+ext_rule_impl_id: BIGINT
+rule_set_name: VARCHAR(30)(30)
+rule_location: VARCHAR(1000)(1000)
+rule_engine_type: VARCHAR(50)(50)
+s_rule_location: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

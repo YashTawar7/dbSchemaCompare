@@ -1,0 +1,13 @@
+h_role_situation_i: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+role_situation_id: BIGINT
+contract_role_id: BIGINT
+arrangement_tp_cd: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT

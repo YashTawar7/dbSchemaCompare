@@ -1,0 +1,7 @@
+internal_bus_tx_tp: BIGINT
+name: VARCHAR(200)(200)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+component_type_id: BIGINT
+parent_internal_bus_tx_tp: BIGINT

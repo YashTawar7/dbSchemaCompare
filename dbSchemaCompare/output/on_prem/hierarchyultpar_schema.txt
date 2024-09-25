@@ -1,0 +1,8 @@
+hier_ult_par_id: BIGINT
+hierarchy_node_id: BIGINT
+description: VARCHAR(255)(255)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

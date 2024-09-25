@@ -1,0 +1,6 @@
+view_driver_id: BIGINT
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+view_instance_id: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

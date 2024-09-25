@@ -1,0 +1,8 @@
+task_role_assoc_id: BIGINT
+task_definition_id: BIGINT
+task_owner_role: VARCHAR(80)(80)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

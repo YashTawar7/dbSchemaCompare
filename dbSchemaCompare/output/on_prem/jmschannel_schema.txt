@@ -1,0 +1,6 @@
+channel_id: BIGINT
+jms_destination: VARCHAR(255)(255)
+jms_conn_factory: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

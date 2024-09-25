@@ -1,0 +1,10 @@
+memrecno: BIGINT
+srcrecno: SMALLINT
+caudrecno: BIGINT
+maudrecno: BIGINT
+tskrecno: BIGINT
+tskseqno: SMALLINT
+tskkind: CHAR(1)(1)
+cusrrecno: SMALLINT
+musrrecno: SMALLINT
+thenote: VARCHAR(255)(255)

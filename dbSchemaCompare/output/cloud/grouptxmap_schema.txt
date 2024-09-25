@@ -1,0 +1,7 @@
+entity_tx_map_id: BIGINT
+group_name: VARCHAR(50)(50)
+business_tx_tp_cd: BIGINT
+application: VARCHAR(50)(50)
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

@@ -1,0 +1,3 @@
+recno: BIGINT
+srcrecno: SMALLINT
+bkthash: BIGINT

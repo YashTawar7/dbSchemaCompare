@@ -1,0 +1,9 @@
+spec_format_id: BIGINT
+spec_id: BIGINT
+external_xsd: CLOB
+internal_xsd: CLOB
+localized_xsd: CLOB
+format_version: BIGINT
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

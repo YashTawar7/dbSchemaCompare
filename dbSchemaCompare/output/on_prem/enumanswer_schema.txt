@@ -1,0 +1,7 @@
+enum_ans_id: BIGINT
+question_id: BIGINT
+answer_sequence: INTEGER
+enum_ans_tp_cd: BIGINT
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

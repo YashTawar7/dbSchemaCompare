@@ -1,0 +1,8 @@
+dwlcolumn_tp_cd: BIGINT
+dwltable_tp_cd: BIGINT
+column_name: VARCHAR(30)(30)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+description: VARCHAR(255)(255)
+locale_sensitive: CHAR(1)(1)
+jdbc_type: VARCHAR(30)(30)

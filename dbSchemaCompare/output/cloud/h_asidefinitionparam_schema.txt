@@ -1,0 +1,15 @@
+h_asi_definition_param_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+asi_definition_param_id: BIGINT
+asi_definition_id: BIGINT
+param_name: VARCHAR(100)(100)
+param_value: VARCHAR(500)(500)
+description: VARCHAR(1024)(1024)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

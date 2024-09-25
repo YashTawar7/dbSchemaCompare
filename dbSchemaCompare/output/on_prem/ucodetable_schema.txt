@@ -1,0 +1,5 @@
+application: VARCHAR(18)(18)
+VALUE: VARCHAR(50)(50)
+code_name: VARCHAR(50)(50)
+LANGUAGE: VARCHAR(50)(50)
+name: VARCHAR(255)(255)

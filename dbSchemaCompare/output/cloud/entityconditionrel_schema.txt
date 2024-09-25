@@ -1,0 +1,9 @@
+entity_condition_rel_id: BIGINT
+instance_pk: BIGINT
+entity_name: VARCHAR(120)(120)
+condition_id: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

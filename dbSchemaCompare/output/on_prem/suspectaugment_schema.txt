@@ -1,0 +1,9 @@
+suspect_augment_id: BIGINT
+suspect_id: BIGINT
+adj_action_tp_cd: BIGINT
+suspect_tp_cd: BIGINT
+weight: DECIMAL(17, 3)
+match_eng_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

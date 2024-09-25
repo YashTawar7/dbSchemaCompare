@@ -1,0 +1,9 @@
+role_loc_purp_id: BIGINT
+role_location_id: BIGINT
+purpose_tp_cd: BIGINT
+description: VARCHAR(255)(255)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

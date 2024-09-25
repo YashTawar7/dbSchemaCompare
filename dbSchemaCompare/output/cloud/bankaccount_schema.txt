@@ -1,0 +1,11 @@
+payment_source_id: BIGINT
+acct_tp_cd: BIGINT
+acct_num: VARCHAR(30)(30)
+recorded_open_dt: TIMESTAMP
+recorded_closed_dt: TIMESTAMP
+branch_num: VARCHAR(10)(10)
+bank_num: VARCHAR(10)(10)
+depositor_name: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

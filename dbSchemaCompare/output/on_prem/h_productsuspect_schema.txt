@@ -1,0 +1,15 @@
+h_suspect_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+suspect_id: BIGINT
+source_entity_id: BIGINT
+suspect_entity_id: BIGINT
+susp_st_tp_cd: BIGINT
+source_tp_cd: BIGINT
+suspect_tp_cd: BIGINT
+created_by: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

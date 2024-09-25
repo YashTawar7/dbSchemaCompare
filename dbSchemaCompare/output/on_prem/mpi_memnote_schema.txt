@@ -1,0 +1,6 @@
+memrecno: BIGINT
+caudrecno: BIGINT
+maudrecno: BIGINT
+cusrrecno: INTEGER
+musrrecno: INTEGER
+thenote: VARCHAR(255)(255)

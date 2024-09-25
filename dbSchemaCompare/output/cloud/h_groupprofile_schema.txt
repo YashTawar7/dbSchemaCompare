@@ -1,0 +1,9 @@
+h_group_profile_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+group_profile_id: BIGINT
+group_name: VARCHAR(80)(80)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP

@@ -1,0 +1,12 @@
+application: VARCHAR(50)(50)
+priority: SMALLINT
+validation_code: BIGINT
+transaction_type: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+element_name: VARCHAR(50)(50)
+error_code: VARCHAR(50)(50)
+effective_dt: TIMESTAMP
+function_name: VARCHAR(50)(50)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+rule_id: VARCHAR(10)(10)

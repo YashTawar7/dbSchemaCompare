@@ -1,0 +1,12 @@
+group_name: VARCHAR(50)(50)
+application: VARCHAR(50)(50)
+object_name: VARCHAR(100)(100)
+table_name: VARCHAR(50)(50)
+form_name: VARCHAR(50)(50)
+xml_tag_name: VARCHAR(50)(50)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+sortby: VARCHAR(50)(50)
+code_type_ind: CHAR(1)(1)
+alias_name: VARCHAR(50)(50)
+parent_grp_name: VARCHAR(50)(50)

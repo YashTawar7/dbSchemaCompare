@@ -1,0 +1,16 @@
+h_notif_type: VARCHAR(255)(255)
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+notif_type: VARCHAR(255)(255)
+bpm_process_app_name: VARCHAR(255)(255)
+bpm_process_snapshot_name: VARCHAR(255)(255)
+bpm_uca_name: VARCHAR(255)(255)
+bpm_event_name: VARCHAR(255)(255)
+uca_event_key: VARCHAR(255)(255)
+bpm_queue_name: VARCHAR(255)(255)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

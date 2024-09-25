@@ -1,0 +1,13 @@
+h_param_type: VARCHAR(50)(50)
+h_param_value: VARCHAR(50)(50)
+h_validation_code: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+validation_code: BIGINT
+param_type: VARCHAR(50)(50)
+param_value: VARCHAR(50)(50)
+description: VARCHAR(100)(100)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

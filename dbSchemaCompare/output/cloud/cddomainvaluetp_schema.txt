@@ -1,0 +1,9 @@
+lang_tp_cd: BIGINT
+domain_value_tp_cd: BIGINT
+prod_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+domain_tp_cd: BIGINT
+precision_value: SMALLINT
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

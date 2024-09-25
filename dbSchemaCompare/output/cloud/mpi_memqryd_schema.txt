@@ -1,0 +1,4 @@
+memrecno: BIGINT
+srcrecno: SMALLINT
+qryrole: SMALLINT
+qryval: VARCHAR(64)(64)

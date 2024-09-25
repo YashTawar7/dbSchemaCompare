@@ -1,0 +1,13 @@
+h_group_acc_token_: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+group_acc_token_id: BIGINT
+access_token_id: BIGINT
+group_profile_id: BIGINT
+default_ind: CHAR(1)(1)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

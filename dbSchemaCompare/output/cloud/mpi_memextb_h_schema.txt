@@ -1,0 +1,14 @@
+daudrecno: BIGINT
+memrecno: BIGINT
+memseqno: INTEGER
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+attrrecno: SMALLINT
+asaidxno: SMALLINT
+txnid: INTEGER
+propcode: VARCHAR(8)(8)
+doa: TIMESTAMP
+cctype: VARCHAR(2)(2)
+ccexpdate: VARCHAR(8)(8)
+ccnumber: VARCHAR(50)(50)

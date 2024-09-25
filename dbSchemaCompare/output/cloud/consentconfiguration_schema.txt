@@ -1,0 +1,6 @@
+consent_configuration_id: BIGINT
+name: VARCHAR(220)(220)
+content: CLOB
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

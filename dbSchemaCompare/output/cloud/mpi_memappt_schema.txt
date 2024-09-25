@@ -1,0 +1,13 @@
+memrecno: BIGINT
+memseqno: INTEGER
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+attrrecno: SMALLINT
+asaidxno: SMALLINT
+apsrcrecno: SMALLINT
+apnumber: VARCHAR(60)(60)
+apstime: TIMESTAMP
+resid: VARCHAR(20)(20)
+resloc: VARCHAR(20)(20)
+resdept: VARCHAR(20)(20)

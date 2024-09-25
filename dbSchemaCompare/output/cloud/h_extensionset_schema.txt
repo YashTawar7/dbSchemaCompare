@@ -1,0 +1,17 @@
+h_extension_set_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+extension_set_id: BIGINT
+ext_set_name: VARCHAR(120)(120)
+ext_set_desc: VARCHAR(255)(255)
+java_class_name: VARCHAR(100)(100)
+rule_set_name: VARCHAR(1000)(1000)
+dwl_prod_tp_cd: BIGINT
+dwl_extension_ind: CHAR(1)(1)
+assert_rule_tp_cd: BIGINT
+inactive_ind: CHAR(1)(1)
+priority: SMALLINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

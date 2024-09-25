@@ -1,0 +1,9 @@
+proc_purp_id: BIGINT
+proc_purp_tp_cd: BIGINT
+default_time: VARCHAR(100)(100)
+anonymization: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

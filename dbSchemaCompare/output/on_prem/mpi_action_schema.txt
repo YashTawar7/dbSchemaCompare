@@ -1,0 +1,5 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+actioncode: VARCHAR(12)(12)
+actionclass: VARCHAR(255)(255)

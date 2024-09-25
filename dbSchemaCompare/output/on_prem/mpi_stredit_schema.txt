@@ -1,0 +1,6 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+strcode: VARCHAR(40)(40)
+inpstrval: VARCHAR(63)(63)
+outstrval: VARCHAR(63)(63)

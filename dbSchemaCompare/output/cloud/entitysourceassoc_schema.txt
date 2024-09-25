@@ -1,0 +1,9 @@
+entity_source_assoc_id: BIGINT
+consent_entity_assoc_id: BIGINT
+source_ident_tp_cd: BIGINT
+create_date: TIMESTAMP
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

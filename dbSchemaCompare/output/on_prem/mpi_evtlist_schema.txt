@@ -1,0 +1,14 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+enttypeno: SMALLINT
+evttypeno: SMALLINT
+evtdestno: SMALLINT
+cvwrecno: INTEGER
+ischanged: CHAR(1)(1)
+onlychanged: CHAR(1)(1)
+hasmemlist: CHAR(1)(1)
+hasrelationship: CHAR(1)(1)
+hasrootnode: CHAR(1)(1)
+reltypes: VARCHAR(255)(255)
+msgformat: VARCHAR(16)(16)

@@ -1,0 +1,7 @@
+dwltable_tp_cd: BIGINT
+table_name: VARCHAR(50)(50)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+expiry_dt: TIMESTAMP
+code_type_ind: CHAR(1)(1)
+dwl_prod_tp_cd: BIGINT

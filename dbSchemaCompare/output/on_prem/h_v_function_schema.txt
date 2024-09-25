@@ -1,0 +1,13 @@
+h_function_name: VARCHAR(50)(50)
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+function_name: VARCHAR(50)(50)
+java_class: VARCHAR(100)(100)
+rule_function: VARCHAR(50)(50)
+js_function: VARCHAR(50)(50)
+xls_function: VARCHAR(50)(50)
+db_function: VARCHAR(50)(50)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

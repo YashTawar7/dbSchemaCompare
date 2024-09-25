@@ -1,0 +1,10 @@
+campaignassoc_id: BIGINT
+entity_name: VARCHAR(20)(20)
+instance_pk: BIGINT
+campaign_id: BIGINT
+associate_ind: CHAR(1)(1)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT

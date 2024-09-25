@@ -1,0 +1,12 @@
+association_id: INTEGER
+application_name: VARCHAR(50)(50)
+context: VARCHAR(254)(254)
+LOCALE: VARCHAR(50)(50)
+code_id: INTEGER
+code_value: VARCHAR(255)(255)
+code_value_short: VARCHAR(255)(255)
+sort_id: INTEGER
+start_date: TIMESTAMP
+end_date: TIMESTAMP
+comments: VARCHAR(255)(255)
+last_update_date: TIMESTAMP

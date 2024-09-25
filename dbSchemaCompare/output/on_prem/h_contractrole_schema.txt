@@ -1,0 +1,23 @@
+h_contract_role_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+contract_role_id: BIGINT
+cont_id: BIGINT
+contr_component_id: BIGINT
+contr_role_tp_cd: BIGINT
+registered_name: VARCHAR(255)(255)
+distrib_pct: DECIMAL(5, 2)
+irrevoc_ind: CHAR(1)(1)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+recorded_start_dt: TIMESTAMP
+recorded_end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+share_dist_tp_cd: BIGINT
+arrangement_tp_cd: BIGINT
+arrangement_desc: VARCHAR(255)(255)
+last_update_tx_id: BIGINT
+end_reason_tp_cd: BIGINT

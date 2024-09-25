@@ -1,0 +1,10 @@
+h_cond_val_tp_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+cond_val_tp_cd: BIGINT
+condition_tp_cd: BIGINT
+name: VARCHAR(100)(100)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP

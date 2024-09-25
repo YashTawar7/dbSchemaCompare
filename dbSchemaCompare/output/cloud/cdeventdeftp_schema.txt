@@ -1,0 +1,9 @@
+lang_tp_cd: BIGINT
+eventdef_tp_cd: BIGINT
+event_cat_cd: BIGINT
+event_name: VARCHAR(120)(120)
+enable_notify: CHAR(1)(1)
+expiry_dt: TIMESTAMP
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

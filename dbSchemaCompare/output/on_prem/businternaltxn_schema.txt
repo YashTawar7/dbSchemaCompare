@@ -1,0 +1,5 @@
+bus_intern_txn_id: BIGINT
+business_tx_tp_cd: BIGINT
+internal_bus_tx_tp: BIGINT
+int_tx_log_ind: CHAR(1)(1)
+last_update_dt: TIMESTAMP

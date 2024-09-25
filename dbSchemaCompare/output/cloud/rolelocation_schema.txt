@@ -1,0 +1,9 @@
+role_location_id: BIGINT
+location_group_id: BIGINT
+contract_role_id: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+undel_reason_tp_cd: BIGINT
+last_update_tx_id: BIGINT

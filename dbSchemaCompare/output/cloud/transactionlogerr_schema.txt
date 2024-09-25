@@ -1,0 +1,3 @@
+tx_log_id: BIGINT
+err_reason: BIGINT
+err_message: VARCHAR(255)(255)

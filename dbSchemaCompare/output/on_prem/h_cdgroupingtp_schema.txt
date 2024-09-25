@@ -1,0 +1,14 @@
+h_lang_tp_cd: BIGINT
+h_grouping_tp_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+lang_tp_cd: BIGINT
+grouping_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+pme_context_key: VARCHAR(30)(30)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+group_cat_tp_cd: BIGINT

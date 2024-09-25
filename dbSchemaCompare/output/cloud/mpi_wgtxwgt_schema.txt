@@ -1,0 +1,5 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+wgtcode1: VARCHAR(40)(40)
+wgtcode2: VARCHAR(40)(40)

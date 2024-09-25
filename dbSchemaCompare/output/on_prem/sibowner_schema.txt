@@ -1,0 +1,7 @@
+me_uuid: VARCHAR(16)(16)
+inc_uuid: VARCHAR(16)(16)
+VERSION: INTEGER
+migration_version: INTEGER
+me_luts: TIMESTAMP
+me_info: VARCHAR(254)(254)
+me_status: VARCHAR(16)(16)

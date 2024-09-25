@@ -1,0 +1,5 @@
+deployment_id: BIGINT
+application_id: BIGINT
+name: VARCHAR(50)(50)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

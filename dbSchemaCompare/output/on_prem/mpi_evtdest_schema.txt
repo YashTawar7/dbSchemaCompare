@@ -1,0 +1,8 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+evtdestno: SMALLINT
+evtdestname: VARCHAR(32)(32)
+evtdestdesc: VARCHAR(255)(255)
+pubname: VARCHAR(255)(255)
+pubargs: VARCHAR(255)(255)

@@ -1,0 +1,4 @@
+memrecno: BIGINT
+srcrecno: SMALLINT
+cmpseqno: SMALLINT
+cmpval: VARCHAR(255)(255)

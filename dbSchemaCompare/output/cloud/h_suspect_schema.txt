@@ -1,0 +1,25 @@
+h_suspect_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+suspect_id: BIGINT
+cont_id: BIGINT
+suspect_cont_id: BIGINT
+susp_st_tp_cd: BIGINT
+source_tp_cd: BIGINT
+susp_reason_tp_cd: BIGINT
+match_relev_tp_cd: BIGINT
+adj_action_code: CHAR(2)(2)
+adj_action_tp_cd: BIGINT
+created_by: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+match_eng_tp_cd: BIGINT
+weight: DECIMAL(17, 3)
+cur_suspect_tp_cd: BIGINT
+cur_mtch_eng_tp_cd: BIGINT
+person_org_code: CHAR(1)(1)
+inactivated_dt: TIMESTAMP
+access_token_value: VARCHAR(50)(50)

@@ -1,0 +1,14 @@
+h_rule_id: VARCHAR(10)(10)
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+rule_id: VARCHAR(10)(10)
+rule_description: VARCHAR(1000)(1000)
+input_param_desc: VARCHAR(255)(255)
+output_param_desc: VARCHAR(255)(255)
+comp_object_desc: VARCHAR(255)(255)
+created_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+rule_usage_tp_cd: BIGINT

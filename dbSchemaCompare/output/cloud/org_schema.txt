@@ -1,0 +1,9 @@
+cont_id: BIGINT
+org_tp_cd: BIGINT
+industry_tp_cd: BIGINT
+established_dt: TIMESTAMP
+buy_sell_agr_tp_cd: BIGINT
+profit_ind: CHAR(1)(1)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

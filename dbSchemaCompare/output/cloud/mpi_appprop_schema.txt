@@ -1,0 +1,8 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+apprecno: INTEGER
+segrecno: INTEGER
+therecno: BIGINT
+propname: VARCHAR(255)(255)
+propval: VARCHAR(2048)(2048)

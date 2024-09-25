@@ -1,0 +1,24 @@
+h_contr_component_: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+contr_component_id: BIGINT
+contract_st_tp_cd: BIGINT
+prod_tp_cd: BIGINT
+contract_id: BIGINT
+curr_cash_val_amt: DECIMAL(17, 3)
+premium_amt: DECIMAL(17, 3)
+issue_dt: TIMESTAMP
+viatical_ind: CHAR(1)(1)
+base_ind: CHAR(1)(1)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+contr_comp_tp_cd: BIGINT
+last_update_tx_id: BIGINT
+serv_arrange_tp_cd: BIGINT
+holding_id: BIGINT
+expiry_dt: TIMESTAMP
+premamt_cur_tp: BIGINT
+cashval_cur_tp: BIGINT
+cluster_key: BIGINT

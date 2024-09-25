@@ -1,0 +1,8 @@
+fed_instance_id: BIGINT
+name: VARCHAR(120)(120)
+protocol_type: BIGINT
+is_local: CHAR(1)(1)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

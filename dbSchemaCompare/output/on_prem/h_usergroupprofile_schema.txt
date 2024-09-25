@@ -1,0 +1,11 @@
+h_user_grp_prof_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+user_grp_prof_id: BIGINT
+group_profile_id: BIGINT
+user_profile_id: BIGINT
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+active_ind: CHAR(1)(1)

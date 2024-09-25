@@ -1,0 +1,9 @@
+daudrecno: BIGINT
+memrecno: BIGINT
+memseqno: INTEGER
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+attrrecno: SMALLINT
+asaidxno: SMALLINT
+dateval: VARCHAR(19)(19)

@@ -1,0 +1,7 @@
+product_values_nls_id: BIGINT
+product_values_id: BIGINT
+lang_tp_cd: BIGINT
+value_xml: XML
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

@@ -1,0 +1,5 @@
+eventdefextrule_id: BIGINT
+rule_id: VARCHAR(10)(10)
+eventdef_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

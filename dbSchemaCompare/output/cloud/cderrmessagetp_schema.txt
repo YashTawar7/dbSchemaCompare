@@ -1,0 +1,5 @@
+lang_tp_cd: BIGINT
+err_message_tp_cd: BIGINT
+err_message: VARCHAR(255)(255)
+comments: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP

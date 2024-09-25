@@ -1,0 +1,10 @@
+demographics_id: BIGINT
+cont_id: BIGINT
+demographics_tp_cd: BIGINT
+spec_fmt_id: BIGINT
+VALUE: XML
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

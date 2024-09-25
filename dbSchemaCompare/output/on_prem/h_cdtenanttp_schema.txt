@@ -1,0 +1,13 @@
+h_lang_tp_cd: BIGINT
+h_tenant_tp_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+lang_tp_cd: BIGINT
+tenant_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(250)(250)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

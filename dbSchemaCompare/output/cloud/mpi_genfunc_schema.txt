@@ -1,0 +1,11 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+genfunccode: VARCHAR(12)(12)
+genfuncname: VARCHAR(40)(40)
+geninitname: VARCHAR(40)(40)
+gendonename: VARCHAR(40)(40)
+genfuncdesc: VARCHAR(255)(255)
+libcode: VARCHAR(12)(12)
+minargs: SMALLINT
+maxargs: SMALLINT

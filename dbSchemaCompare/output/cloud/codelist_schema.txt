@@ -1,0 +1,3 @@
+code_id: INTEGER
+code: VARCHAR(254)(254)
+list: VARCHAR(254)(254)

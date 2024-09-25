@@ -1,0 +1,12 @@
+critical_element_id: BIGINT
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+element_name: VARCHAR(50)(50)
+syncpurpose_tp_cd: BIGINT
+entity_type: VARCHAR(50)(50)
+instance_pk: VARCHAR(50)(50)
+active_ind: CHAR(1)(1)
+ultimate_parent_group_name: VARCHAR(50)(50)
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT

@@ -1,0 +1,17 @@
+interaction_id: BIGINT
+recorded_by_user: VARCHAR(255)(255)
+interact_pt_tp_cd: BIGINT
+recorded_dt: TIMESTAMP
+subject_desc: VARCHAR(100)(100)
+note_desc: VARCHAR(1000)(1000)
+interact_party: VARCHAR(255)(255)
+interact_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+invalid_ind: CHAR(1)(1)
+interact_st_tp_cd: BIGINT
+last_update_tx_id: BIGINT
+interact_resp_tp: BIGINT
+entity_name: VARCHAR(20)(20)
+instance_pk: BIGINT
+interact_tp_cd: BIGINT

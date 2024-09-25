@@ -1,0 +1,8 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+seqname: VARCHAR(40)(40)
+seqnum: BIGINT
+seqincr: INTEGER
+tabname: VARCHAR(40)(40)
+colname: VARCHAR(40)(40)

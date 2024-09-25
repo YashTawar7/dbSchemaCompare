@@ -1,0 +1,16 @@
+h_contr_role_rel_i: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+contr_role_rel_id: BIGINT
+rel_tp_cd: BIGINT
+role_rel_desc: VARCHAR(255)(255)
+contr_role_from_id: BIGINT
+contr_role_to_id: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+end_reason_tp_cd: BIGINT

@@ -1,0 +1,8 @@
+h_element_tp_cd: INTEGER
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+element_tp_cd: INTEGER
+element_tp_name: VARCHAR(32)(32)
+last_update_dt: TIMESTAMP

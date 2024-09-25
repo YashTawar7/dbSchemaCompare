@@ -1,0 +1,17 @@
+tx_log_id: BIGINT
+business_tx_tp_cd: BIGINT
+requester_lang: VARCHAR(50)(50)
+request_dt: VARCHAR(50)(50)
+session_id: VARCHAR(50)(50)
+product_version: VARCHAR(50)(50)
+line_of_business: VARCHAR(50)(50)
+company_name: VARCHAR(50)(50)
+geograph_region: VARCHAR(50)(50)
+client_txn_name: VARCHAR(100)(100)
+client_sys_name: VARCHAR(100)(100)
+user_role: VARCHAR(50)(50)
+update_meth_code: VARCHAR(10)(10)
+request_origin: VARCHAR(255)(255)
+requester_name: VARCHAR(50)(50)
+created_dt: TIMESTAMP
+ext_corr_id: VARCHAR(50)(50)

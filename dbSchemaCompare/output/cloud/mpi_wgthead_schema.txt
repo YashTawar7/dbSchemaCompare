@@ -1,0 +1,10 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+wgtcode: VARCHAR(40)(40)
+wgttype: VARCHAR(8)(8)
+wgtname: VARCHAR(40)(40)
+max1dim: SMALLINT
+max2dim: SMALLINT
+max3dim: SMALLINT
+max4dim: SMALLINT

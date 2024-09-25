@@ -1,0 +1,10 @@
+initial_statistics_id: BIGINT
+effective_dt: TIMESTAMP
+SOURCE: VARCHAR(255)(255)
+entity_tp_cd: BIGINT
+active_count: BIGINT
+inactive_count: BIGINT
+suspect_count: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

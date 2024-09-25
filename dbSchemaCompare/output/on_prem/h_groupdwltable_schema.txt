@@ -1,0 +1,11 @@
+h_group_dwltable_i: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+group_dwltable_id: BIGINT
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+dwltable_tp_cd: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

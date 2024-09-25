@@ -1,0 +1,3 @@
+memtypeno: SMALLINT
+bktct: INTEGER
+memrecno: BIGINT

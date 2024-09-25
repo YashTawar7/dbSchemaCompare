@@ -1,0 +1,3 @@
+id: INTEGER
+identit: VARCHAR(225)(225)
+auditactiontext: VARCHAR(225)(225)

@@ -1,0 +1,8 @@
+native_key_id: BIGINT
+admin_contract_id: VARCHAR(150)(150)
+contract_id: BIGINT
+admin_fld_nm_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+contract_comp_ind: CHAR(1)(1)

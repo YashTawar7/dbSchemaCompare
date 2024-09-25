@@ -1,0 +1,10 @@
+event_id: BIGINT
+eventdef_tp_cd: BIGINT
+processaction_id: BIGINT
+notif_effect_dt: TIMESTAMP
+event_trigger: VARCHAR(20)(20)
+created_dt: TIMESTAMP
+end_dt: TIMESTAMP
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

@@ -1,0 +1,8 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+memstatno: SMALLINT
+memstat: VARCHAR(32)(32)
+memstatlabel: VARCHAR(32)(32)
+memstatcat: VARCHAR(32)(32)
+isderived: CHAR(1)(1)

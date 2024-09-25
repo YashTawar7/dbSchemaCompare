@@ -1,0 +1,5 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+rulesetrecno: INTEGER
+rulesetoperator: VARCHAR(12)(12)

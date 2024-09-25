@@ -1,0 +1,8 @@
+search_sql_id: BIGINT
+input_class: VARCHAR(255)(255)
+sql_statement_id: BIGINT
+description: VARCHAR(255)(255)
+processor_class: VARCHAR(255)(255)
+active_ind: CHAR(1)(1)
+last_update_dt: TIMESTAMP
+row_handler_class: VARCHAR(255)(255)

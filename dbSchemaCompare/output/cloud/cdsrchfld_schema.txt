@@ -1,0 +1,7 @@
+srch_fld_cd_id: BIGINT
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+element_name: VARCHAR(50)(50)
+srch_fld_name: VARCHAR(255)(255)
+element_tp_cd: INTEGER
+last_update_dt: TIMESTAMP

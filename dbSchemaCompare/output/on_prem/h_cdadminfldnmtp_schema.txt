@@ -1,0 +1,17 @@
+h_lang_tp_cd: BIGINT
+h_admin_fld_nm_tp_: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+lang_tp_cd: BIGINT
+admin_fld_nm_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+admin_sys_tp_cd: BIGINT
+size_num: DECIMAL(2, 0)
+datatype_name: VARCHAR(40)(40)
+displayed_ind: CHAR(1)(1)
+present_seq_num: SMALLINT
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

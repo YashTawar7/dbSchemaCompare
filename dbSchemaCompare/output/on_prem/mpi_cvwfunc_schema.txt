@@ -1,0 +1,5 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+cvwfunccode: VARCHAR(12)(12)
+cvwfuncname: VARCHAR(40)(40)

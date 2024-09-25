@@ -1,0 +1,4 @@
+memrecno: BIGINT
+srcrecno: SMALLINT
+cursetrecno: BIGINT
+LINKTYPE: CHAR(1)(1)

@@ -1,0 +1,4 @@
+attribute_id: INTEGER
+association_id: INTEGER
+attribute_name: VARCHAR(50)(50)
+attribute_value: VARCHAR(255)(255)

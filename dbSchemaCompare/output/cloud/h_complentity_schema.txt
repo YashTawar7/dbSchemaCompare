@@ -1,0 +1,16 @@
+h_compl_entity_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+compl_entity_id: BIGINT
+compl_req_id: BIGINT
+entity_name: VARCHAR(120)(120)
+instance_pk: BIGINT
+created_dt: TIMESTAMP
+description: VARCHAR(255)(255)
+next_verif_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

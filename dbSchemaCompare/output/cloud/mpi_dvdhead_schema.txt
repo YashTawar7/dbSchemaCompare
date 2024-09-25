@@ -1,0 +1,8 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+dvdcode: VARCHAR(12)(12)
+dvdname: VARCHAR(40)(40)
+libcode: VARCHAR(12)(12)
+dvdargs: VARCHAR(255)(255)
+dvddesc: VARCHAR(255)(255)

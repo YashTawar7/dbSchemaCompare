@@ -1,0 +1,15 @@
+memrecno: BIGINT
+srcrecno: SMALLINT
+caudrecno: BIGINT
+maudrecno: BIGINT
+recctime: TIMESTAMP
+recmtime: TIMESTAMP
+eiatypeno: SMALLINT
+eiastatno: SMALLINT
+eiastatno2: SMALLINT
+tsktypeno: SMALLINT
+tskstatno: SMALLINT
+usrrecno: SMALLINT
+maxscore: SMALLINT
+supmemrecno: BIGINT
+xtskcarn: BIGINT

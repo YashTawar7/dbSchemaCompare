@@ -1,0 +1,7 @@
+entityeventcat_id: BIGINT
+prodentity_id: BIGINT
+adapterdef_id: BIGINT
+event_cat_cd: BIGINT
+enteventcatopt_id: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

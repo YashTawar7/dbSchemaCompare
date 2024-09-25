@@ -1,0 +1,8 @@
+user_acc_token_id: BIGINT
+access_token_id: BIGINT
+user_profile_id: BIGINT
+default_ind: CHAR(1)(1)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

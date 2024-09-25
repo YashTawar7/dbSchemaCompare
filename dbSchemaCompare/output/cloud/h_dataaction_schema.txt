@@ -1,0 +1,15 @@
+h_data_access_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+data_access_id: BIGINT
+entitlement_id: BIGINT
+assoc_data_ind: CHAR(1)(1)
+assoc_data_key: BIGINT
+permission_tp_cd: BIGINT
+data_action_tp_cd: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

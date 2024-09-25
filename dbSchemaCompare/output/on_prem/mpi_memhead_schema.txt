@@ -1,0 +1,8 @@
+memrecno: BIGINT
+memseqno: INTEGER
+caudrecno: BIGINT
+maudrecno: BIGINT
+memstat: CHAR(1)(1)
+memverno: SMALLINT
+srcrecno: SMALLINT
+memidnum: VARCHAR(60)(60)

@@ -1,0 +1,10 @@
+spec_id: BIGINT
+metadata_info_tp_cd: BIGINT
+spec_name: VARCHAR(100)(100)
+spec_namespace: VARCHAR(500)(500)
+active_format_id: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

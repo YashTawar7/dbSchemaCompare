@@ -1,0 +1,8 @@
+inqlvl_id: BIGINT
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+inqlvl: SMALLINT
+cumulative_ind: CHAR(1)(1)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

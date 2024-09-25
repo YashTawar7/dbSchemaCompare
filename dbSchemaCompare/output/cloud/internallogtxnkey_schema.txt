@@ -1,0 +1,6 @@
+intern_log_key_id: BIGINT
+internal_log_id: BIGINT
+intern_tx_key_id: BIGINT
+element_value: VARCHAR(1000)(1000)
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

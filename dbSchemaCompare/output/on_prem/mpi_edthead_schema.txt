@@ -1,0 +1,6 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+edtcode: VARCHAR(12)(12)
+edtname: VARCHAR(40)(40)
+edtowner: VARCHAR(8)(8)

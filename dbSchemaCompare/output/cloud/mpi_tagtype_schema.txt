@@ -1,0 +1,8 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+tagtypeno: INTEGER
+tagtype: VARCHAR(40)(40)
+enttype: VARCHAR(32)(32)
+rulesetrecno: INTEGER
+userelated: CHAR(1)(1)

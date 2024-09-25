@@ -1,0 +1,10 @@
+cont_macro_role_id: BIGINT
+cont_id: BIGINT
+role_tp_cd: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+description: VARCHAR(255)(255)
+end_reason_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

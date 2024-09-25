@@ -1,0 +1,8 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+rulerecno: INTEGER
+rulesetrecno: INTEGER
+ruletype: VARCHAR(40)(40)
+functiontype: VARCHAR(40)(40)
+invert: CHAR(1)(1)

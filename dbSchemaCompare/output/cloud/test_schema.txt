@@ -1,0 +1,5 @@
+id: INTEGER
+name: VARCHAR(225)(225)
+profession: VARCHAR(225)(225)
+city: VARCHAR(225)(225)
+salaray: INTEGER

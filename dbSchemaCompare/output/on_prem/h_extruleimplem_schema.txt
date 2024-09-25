@@ -1,0 +1,12 @@
+h_ext_rule_impl_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+ext_rule_impl_id: BIGINT
+rule_id: VARCHAR(10)(10)
+ext_rule_tp_code: CHAR(1)(1)
+rule_in_force_ind: CHAR(1)(1)
+impl_order: SMALLINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

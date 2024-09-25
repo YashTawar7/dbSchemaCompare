@@ -1,0 +1,5 @@
+metadata_info_tp_cd: BIGINT
+metadata_key: VARCHAR(255)(255)
+metadata_package_tp_cd: BIGINT
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

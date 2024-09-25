@@ -1,0 +1,14 @@
+element_name: VARCHAR(50)(50)
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+attribute_name: VARCHAR(254)(254)
+column_name: VARCHAR(50)(50)
+field_name: VARCHAR(50)(50)
+xml_tag_name: VARCHAR(50)(50)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+response_order: SMALLINT
+elementappname: VARCHAR(50)(50)
+elementgroupname: VARCHAR(50)(50)
+dwlcolumn_tp_cd: BIGINT
+cardinality_tp_cd: BIGINT

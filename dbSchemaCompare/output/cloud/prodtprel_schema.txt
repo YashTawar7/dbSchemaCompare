@@ -1,0 +1,10 @@
+prod_tp_rel_id: BIGINT
+from_prod_tp_cd: BIGINT
+to_prod_tp_cd: BIGINT
+prodrel_tp_cd: BIGINT
+rel_desc: VARCHAR(255)(255)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_txn_id: BIGINT

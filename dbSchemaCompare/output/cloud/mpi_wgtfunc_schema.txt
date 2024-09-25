@@ -1,0 +1,12 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+wgtfunccode: VARCHAR(12)(12)
+wgtfuncname: VARCHAR(40)(40)
+wgtinitname: VARCHAR(40)(40)
+wgtdonename: VARCHAR(40)(40)
+wgtfuncdesc: VARCHAR(255)(255)
+libcode: VARCHAR(12)(12)
+minargs: SMALLINT
+maxargs: SMALLINT
+frqfuncname: VARCHAR(40)(40)

@@ -1,0 +1,4 @@
+ext_rule_impl_id: BIGINT
+java_classname: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

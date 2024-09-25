@@ -1,0 +1,12 @@
+h_location_group_i: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+location_group_id: BIGINT
+address_id: BIGINT
+care_of_desc: VARCHAR(50)(50)
+addr_usage_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

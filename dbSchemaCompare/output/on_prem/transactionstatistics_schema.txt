@@ -1,0 +1,8 @@
+transaction_statistics_id: BIGINT
+created_dt: TIMESTAMP
+SOURCE: VARCHAR(255)(255)
+transaction_category_tp_cd: BIGINT
+COUNT: BIGINT
+decomposed_count: BIGINT
+response_time: BIGINT
+last_update_dt: TIMESTAMP

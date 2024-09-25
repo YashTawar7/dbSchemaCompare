@@ -1,0 +1,4 @@
+customerid: INTEGER
+customername: VARCHAR(50)(50)
+contactname: VARCHAR(50)(50)
+country: VARCHAR(50)(50)

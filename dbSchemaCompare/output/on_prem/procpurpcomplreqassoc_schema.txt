@@ -1,0 +1,8 @@
+pp_compl_req_assoc_id: BIGINT
+proc_purp_id: BIGINT
+compl_req_id: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

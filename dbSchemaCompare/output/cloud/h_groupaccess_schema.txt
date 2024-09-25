@@ -1,0 +1,11 @@
+h_group_access_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+group_access_id: BIGINT
+group_profile_id: BIGINT
+business_tx_tp_cd: BIGINT
+active_ind: CHAR(1)(1)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

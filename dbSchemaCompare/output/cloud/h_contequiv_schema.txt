@@ -1,0 +1,13 @@
+h_cont_equiv_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+cont_equiv_id: BIGINT
+cont_id: BIGINT
+admin_sys_tp_cd: BIGINT
+admin_client_id: VARCHAR(20)(20)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

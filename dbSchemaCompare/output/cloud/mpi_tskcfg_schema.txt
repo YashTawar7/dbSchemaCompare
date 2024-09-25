@@ -1,0 +1,14 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+tsktypeno: SMALLINT
+tskstatno: SMALLINT
+toownertype: CHAR(1)(1)
+toownerrecno: INTEGER
+toowneraction: VARCHAR(12)(12)
+tosupervisoraction: VARCHAR(12)(12)
+expiretime: INTEGER
+expireownertype: CHAR(1)(1)
+expireownerrecno: INTEGER
+expireowneraction: VARCHAR(12)(12)
+expiresupervisoraction: VARCHAR(12)(12)

@@ -1,0 +1,8 @@
+function_name: VARCHAR(50)(50)
+java_class: VARCHAR(100)(100)
+rule_function: VARCHAR(50)(50)
+js_function: VARCHAR(50)(50)
+xls_function: VARCHAR(50)(50)
+db_function: VARCHAR(50)(50)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

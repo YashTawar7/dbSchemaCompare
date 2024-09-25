@@ -1,0 +1,9 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+tagrecno: BIGINT
+tagtypeno: INTEGER
+tsktypeno: INTEGER
+memrecno: BIGINT
+tskrecno: BIGINT
+enttypeno: SMALLINT
+tagstat: CHAR(1)(1)

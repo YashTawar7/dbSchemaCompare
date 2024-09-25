@@ -1,0 +1,3 @@
+data_owner_id: BIGINT
+data_owner_name: VARCHAR(50)(50)
+last_update_dt: TIMESTAMP

@@ -1,0 +1,15 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+tagtypeno: INTEGER
+memtskmaudrecno: BIGINT
+memtskmemrecno: BIGINT
+memmemmaudrecno: BIGINT
+memmemmemrecno: BIGINT
+enttskmaudrecno: BIGINT
+enttskmemrecno: BIGINT
+entmemmaudrecno: BIGINT
+entmemmemrecno: BIGINT
+idttskmaudrecno: BIGINT
+idttsktskrecno: BIGINT
+idtmemmaudrecno: BIGINT
+idtmemtskrecno: BIGINT

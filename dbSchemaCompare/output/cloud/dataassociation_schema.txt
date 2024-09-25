@@ -1,0 +1,5 @@
+data_assoc_id: BIGINT
+name: VARCHAR(30)(30)
+last_update_dt: TIMESTAMP
+description: VARCHAR(100)(100)
+expiry_dt: TIMESTAMP

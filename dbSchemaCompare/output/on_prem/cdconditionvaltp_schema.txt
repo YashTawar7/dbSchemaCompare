@@ -1,0 +1,5 @@
+cond_val_tp_cd: BIGINT
+condition_tp_cd: BIGINT
+name: VARCHAR(100)(100)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP

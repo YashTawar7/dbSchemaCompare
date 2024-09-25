@@ -1,0 +1,7 @@
+product_id: BIGINT
+tax_position_tp_cd: BIGINT
+account_required_tp_cd: BIGINT
+currency_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

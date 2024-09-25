@@ -1,0 +1,11 @@
+h_inqlvlgrp_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+inqlvlgrp_id: BIGINT
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+inqlvl_id: BIGINT
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

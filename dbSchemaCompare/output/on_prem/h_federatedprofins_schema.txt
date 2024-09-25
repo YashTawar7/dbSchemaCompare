@@ -1,0 +1,10 @@
+h_fed_profil_inst_: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+fed_profil_inst_id: BIGINT
+fed_profile_id: BIGINT
+fed_instance_id: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

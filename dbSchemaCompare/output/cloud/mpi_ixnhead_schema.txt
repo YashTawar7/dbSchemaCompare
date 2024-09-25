@@ -1,0 +1,11 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+ixnrecno: INTEGER
+ixncode: VARCHAR(16)(16)
+ixnname: VARCHAR(40)(40)
+ixnlabel: VARCHAR(32)(32)
+ixncat: VARCHAR(32)(32)
+libcode: VARCHAR(12)(12)
+audlevel: SMALLINT
+issingle: CHAR(1)(1)

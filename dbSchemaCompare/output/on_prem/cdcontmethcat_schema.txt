@@ -1,0 +1,6 @@
+lang_tp_cd: BIGINT
+cont_meth_cat_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

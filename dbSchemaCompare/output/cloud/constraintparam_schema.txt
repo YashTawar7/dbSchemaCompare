@@ -1,0 +1,7 @@
+constr_param_id: BIGINT
+entitle_constr_id: BIGINT
+param_tp_cd: BIGINT
+param_value: VARCHAR(255)(255)
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+expiry_dt: TIMESTAMP

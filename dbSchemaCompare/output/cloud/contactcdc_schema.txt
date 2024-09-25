@@ -1,0 +1,12 @@
+cdc_id: BIGINT
+cont_id: BIGINT
+entity_name: VARCHAR(120)(120)
+instance_pk: BIGINT
+critdata: CLOB
+cdc_st_tp_cd: BIGINT
+rej_reason_tp_cd: BIGINT
+created_dt: TIMESTAMP
+expiry_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

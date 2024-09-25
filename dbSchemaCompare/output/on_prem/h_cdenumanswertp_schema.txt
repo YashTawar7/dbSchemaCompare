@@ -1,0 +1,13 @@
+h_enum_ans_tp_cd: BIGINT
+h_lang_tp_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+enum_ans_tp_cd: BIGINT
+lang_tp_cd: BIGINT
+enum_ans_cat_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

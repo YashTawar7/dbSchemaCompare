@@ -1,0 +1,6 @@
+memrecno: BIGINT
+srcrecno: SMALLINT
+audrecno: BIGINT
+usrrecno: INTEGER
+wrkcode: CHAR(1)(1)
+wrkowner: VARCHAR(16)(16)

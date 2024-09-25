@@ -1,0 +1,5 @@
+audrecno: BIGINT
+audseqno: SMALLINT
+attrrecno: SMALLINT
+asaidxno: SMALLINT
+attrval: VARCHAR(128)(128)

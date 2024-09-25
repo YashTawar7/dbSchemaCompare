@@ -1,0 +1,5 @@
+trans_alias_id: BIGINT
+data_owner_id: BIGINT
+business_tx_tp_cd: BIGINT
+trans_alias_name: VARCHAR(50)(50)
+last_update_dt: TIMESTAMP

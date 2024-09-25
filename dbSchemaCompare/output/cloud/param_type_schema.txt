@@ -1,0 +1,7 @@
+parameter_tp_cd: BIGINT
+operand_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+min_params: SMALLINT
+max_params: SMALLINT
+last_update_dt: TIMESTAMP

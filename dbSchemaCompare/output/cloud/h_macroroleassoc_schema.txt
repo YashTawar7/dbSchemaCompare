@@ -1,0 +1,15 @@
+h_macrorole_assoc_: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+macrorole_assoc_id: BIGINT
+cont_macro_role_id: BIGINT
+entity_name: VARCHAR(30)(30)
+instance_pk: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+end_reason_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

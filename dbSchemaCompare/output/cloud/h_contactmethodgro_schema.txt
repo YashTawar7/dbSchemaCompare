@@ -1,0 +1,16 @@
+h_location_group_i: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+location_group_id: BIGINT
+contact_method_id: BIGINT
+cont_meth_tp_cd: BIGINT
+method_st_tp_cd: BIGINT
+attach_allow_ind: CHAR(1)(1)
+text_only_ind: CHAR(1)(1)
+message_size: VARCHAR(20)(20)
+comment_desc: VARCHAR(100)(100)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

@@ -1,0 +1,7 @@
+intern_tx_key_id: BIGINT
+internal_bus_tx_tp: BIGINT
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+element_name: VARCHAR(50)(50)
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

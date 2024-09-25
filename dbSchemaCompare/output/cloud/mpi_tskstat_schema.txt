@@ -1,0 +1,10 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+tskstatno: SMALLINT
+tskstat: VARCHAR(32)(32)
+tskstatlabel: VARCHAR(32)(32)
+tskstatcat: VARCHAR(32)(32)
+isresolved: CHAR(1)(1)
+isupdatable: CHAR(1)(1)
+isdeletable: CHAR(1)(1)

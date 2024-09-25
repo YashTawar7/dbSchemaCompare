@@ -1,0 +1,4 @@
+lang_tp_cd: BIGINT
+err_type_cd: VARCHAR(10)(10)
+err_type_desc: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP

@@ -1,0 +1,7 @@
+task_definition_nls_id: BIGINT
+task_definition_id: BIGINT
+lang_tp_cd: BIGINT
+task_name: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

@@ -1,0 +1,12 @@
+h_ppref_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+ppref_id: BIGINT
+ppref_seg_tp_cd: BIGINT
+regulation_value: VARCHAR(255)(255)
+default_ind: CHAR(1)(1)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

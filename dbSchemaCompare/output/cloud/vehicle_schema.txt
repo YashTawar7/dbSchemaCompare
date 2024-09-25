@@ -1,0 +1,8 @@
+holding_id: BIGINT
+vin_num: VARCHAR(20)(20)
+vehicle_make: VARCHAR(20)(20)
+vehicle_model: VARCHAR(20)(20)
+vehicle_year: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

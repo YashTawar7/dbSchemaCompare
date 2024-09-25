@@ -1,0 +1,8 @@
+contact_method_id: BIGINT
+address_id: BIGINT
+cont_meth_cat_cd: BIGINT
+ref_num: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+cont_meth_std_ind: CHAR(1)(1)

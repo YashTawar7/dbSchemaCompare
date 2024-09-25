@@ -1,0 +1,14 @@
+h_assoc_attrib_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+assoc_attrib_id: BIGINT
+assoc_obj_id: BIGINT
+instance_value: VARCHAR(100)(100)
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+element_name: VARCHAR(50)(50)
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+expiry_dt: TIMESTAMP

@@ -1,0 +1,11 @@
+task_definition_id: BIGINT
+task_cat_tp_cd: BIGINT
+task_name: VARCHAR(255)(255)
+task_launch_action_tp_cd: BIGINT
+task_launch_action_data: VARCHAR(1024)(1024)
+metadata_info_tp_cd: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

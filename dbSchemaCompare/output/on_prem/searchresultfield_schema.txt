@@ -1,0 +1,4 @@
+search_sql_id: BIGINT
+SEQUENCE: INTEGER
+srch_fld_cd_id: BIGINT
+last_update_dt: TIMESTAMP

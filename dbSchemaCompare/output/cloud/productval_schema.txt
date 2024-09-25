@@ -1,0 +1,10 @@
+product_values_id: BIGINT
+spec_id: BIGINT
+spec_fmt_id: BIGINT
+product_id: BIGINT
+value_xml: XML
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

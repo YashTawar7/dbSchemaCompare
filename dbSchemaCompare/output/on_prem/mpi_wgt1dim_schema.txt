@@ -1,0 +1,6 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+wgtcode: VARCHAR(40)(40)
+wgtidxno: SMALLINT
+wgtval: INTEGER

@@ -1,0 +1,11 @@
+h_application: VARCHAR(50)(50)
+h_transaction_type: VARCHAR(50)(50)
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+transaction_type: VARCHAR(50)(50)
+application: VARCHAR(50)(50)
+transaction_desc: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

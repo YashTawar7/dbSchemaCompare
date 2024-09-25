@@ -1,0 +1,6 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+wgttypeno: SMALLINT
+wgttype: VARCHAR(8)(8)
+wgttypedesc: VARCHAR(255)(255)

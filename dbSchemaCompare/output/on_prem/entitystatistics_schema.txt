@@ -1,0 +1,11 @@
+entity_statistics_id: BIGINT
+created_dt: TIMESTAMP
+entity_tp_cd: BIGINT
+SOURCE: VARCHAR(255)(255)
+add_count: BIGINT
+update_count: BIGINT
+inactive_count: BIGINT
+delete_count: BIGINT
+suspect_created_count: BIGINT
+suspect_resolved_count: BIGINT
+last_update_dt: TIMESTAMP

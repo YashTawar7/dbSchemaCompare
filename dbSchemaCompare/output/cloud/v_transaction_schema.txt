@@ -1,0 +1,5 @@
+transaction_type: VARCHAR(50)(50)
+application: VARCHAR(50)(50)
+transaction_desc: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

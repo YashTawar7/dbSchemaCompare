@@ -1,0 +1,11 @@
+product_nls_id: BIGINT
+product_id: BIGINT
+lang_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+short_description: VARCHAR(255)(255)
+description: VARCHAR(500)(500)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+uname: VARCHAR(120)(120)
+ushort_description: VARCHAR(255)(255)

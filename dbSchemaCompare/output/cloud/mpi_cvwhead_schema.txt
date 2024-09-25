@@ -1,0 +1,16 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+cvwrecno: INTEGER
+cvwname: VARCHAR(40)(40)
+cvwdesc: VARCHAR(255)(255)
+cvwkind: CHAR(1)(1)
+maxrows: INTEGER
+mcalevel: INTEGER
+audlevel: INTEGER
+rsfilter: VARCHAR(8)(8)
+memtypeno: SMALLINT
+isenhanced: CHAR(1)(1)
+cvwtype: CHAR(1)(1)
+cvwfunccode: VARCHAR(12)(12)
+cvwfuncargs: VARCHAR(255)(255)

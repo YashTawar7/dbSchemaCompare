@@ -1,0 +1,15 @@
+h_lang_tp_cd: BIGINT
+h_domain_value_tp_: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+lang_tp_cd: BIGINT
+domain_value_tp_cd: BIGINT
+prod_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+domain_tp_cd: BIGINT
+precision_value: SMALLINT
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

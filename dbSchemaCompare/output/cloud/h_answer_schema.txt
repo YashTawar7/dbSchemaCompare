@@ -1,0 +1,15 @@
+h_answer_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+answer_id: BIGINT
+answer_set_id: BIGINT
+question_id: BIGINT
+answer_index: SMALLINT
+enum_ans_id: BIGINT
+answer: VARCHAR(120)(120)
+recorded_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

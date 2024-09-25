@@ -1,0 +1,6 @@
+cont_id: BIGINT
+user_role_tp_cd: BIGINT
+user_id: VARCHAR(30)(30)
+PASSWORD: VARCHAR(20)(20)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

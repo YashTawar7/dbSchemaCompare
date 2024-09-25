@@ -1,0 +1,7 @@
+lang_tp_cd: BIGINT
+admin_sys_tp_cd: BIGINT
+native_key_tot: SMALLINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

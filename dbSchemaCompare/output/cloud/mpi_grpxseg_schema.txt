@@ -1,0 +1,8 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+grprecno: INTEGER
+segrecno: INTEGER
+srcrecno: INTEGER
+attrrecno: INTEGER
+segperm: CHAR(1)(1)

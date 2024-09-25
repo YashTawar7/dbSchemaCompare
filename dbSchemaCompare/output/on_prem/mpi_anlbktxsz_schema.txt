@@ -1,0 +1,4 @@
+memtypeno: SMALLINT
+bktsize: INTEGER
+bkthash: BIGINT
+memrecno: BIGINT

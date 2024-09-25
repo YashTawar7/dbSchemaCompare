@@ -1,0 +1,5 @@
+memrecno: BIGINT
+caudrecno: BIGINT
+maudrecno: BIGINT
+memrecno2: BIGINT
+ruletype: CHAR(1)(1)

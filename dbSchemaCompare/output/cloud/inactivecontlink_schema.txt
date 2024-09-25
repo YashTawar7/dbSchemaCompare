@@ -1,0 +1,7 @@
+inact_cont_link_id: BIGINT
+target_cont_id: BIGINT
+source_cont_id: BIGINT
+link_reason_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

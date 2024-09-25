@@ -1,0 +1,7 @@
+interact_rel_id: BIGINT
+from_interact_id: BIGINT
+to_interact_id: BIGINT
+interact_rel_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

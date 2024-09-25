@@ -1,0 +1,16 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+srcrecno: INTEGER
+srccode: VARCHAR(12)(12)
+phycode: VARCHAR(12)(12)
+srctype: VARCHAR(1)(1)
+srcname: VARCHAR(40)(40)
+minlen: INTEGER
+maxlen: INTEGER
+memtypeno: SMALLINT
+richeck: CHAR(1)(1)
+pocmpcode: VARCHAR(12)(12)
+poscore: SMALLINT
+isvirtual: CHAR(1)(1)
+defentprior: SMALLINT

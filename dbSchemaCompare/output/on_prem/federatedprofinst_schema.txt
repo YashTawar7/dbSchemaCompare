@@ -1,0 +1,5 @@
+fed_profil_inst_id: BIGINT
+fed_profile_id: BIGINT
+fed_instance_id: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

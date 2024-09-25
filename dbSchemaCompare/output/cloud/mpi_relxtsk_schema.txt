@@ -1,0 +1,9 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+tskrecno: BIGINT
+tsktypeno: SMALLINT
+tskstatno: SMALLINT
+usrrecno: SMALLINT
+reltypeno: INTEGER
+side: CHAR(1)(1)
+recno: BIGINT

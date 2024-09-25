@@ -1,0 +1,15 @@
+h_element_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+element_id: BIGINT
+deployment_id: BIGINT
+name: VARCHAR(220)(220)
+VALUE: VARCHAR(1000)(1000)
+value_default: VARCHAR(1000)(1000)
+instance_id: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+is_dynamic: CHAR(1)(1)
+documentation: VARCHAR(2000)(2000)

@@ -1,0 +1,7 @@
+lang_tp_cd: BIGINT
+condition_attr_tp_cd: BIGINT
+condition_usage_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

@@ -1,0 +1,8 @@
+standardizer_constraint_id: BIGINT
+description: VARCHAR(255)(255)
+data_element_id: BIGINT
+operator_tp_cd: BIGINT
+negate_result_ind: CHAR(1)(1)
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT

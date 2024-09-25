@@ -1,0 +1,9 @@
+accessor_ent_id: BIGINT
+accessor_tp_cd: BIGINT
+entitlement_id: BIGINT
+accessor_key_tp_cd: BIGINT
+accessor_key: VARCHAR(20)(20)
+accessor_desc: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

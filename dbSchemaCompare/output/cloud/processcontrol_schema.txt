@@ -1,0 +1,6 @@
+processcon_id: BIGINT
+processcon_inst_pk: VARCHAR(100)(100)
+prodentity_id: BIGINT
+next_process_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

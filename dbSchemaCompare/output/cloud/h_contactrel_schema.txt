@@ -1,0 +1,17 @@
+h_cont_rel_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+cont_rel_id: BIGINT
+rel_tp_cd: BIGINT
+rel_desc: VARCHAR(255)(255)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+to_cont_id: BIGINT
+from_cont_id: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+rel_assign_tp_cd: BIGINT
+last_update_tx_id: BIGINT
+end_reason_tp_cd: BIGINT

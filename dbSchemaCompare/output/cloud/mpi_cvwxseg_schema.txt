@@ -1,0 +1,10 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+cvwrecno: INTEGER
+segrecno: INTEGER
+srcrecno: INTEGER
+attrrecno: INTEGER
+attrprior: INTEGER
+cvwfunccode: VARCHAR(12)(12)
+cvwfuncargs: VARCHAR(255)(255)

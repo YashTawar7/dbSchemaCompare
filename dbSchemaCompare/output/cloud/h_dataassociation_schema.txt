@@ -1,0 +1,10 @@
+h_data_assoc_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+data_assoc_id: BIGINT
+name: VARCHAR(30)(30)
+last_update_dt: TIMESTAMP
+description: VARCHAR(100)(100)
+expiry_dt: TIMESTAMP

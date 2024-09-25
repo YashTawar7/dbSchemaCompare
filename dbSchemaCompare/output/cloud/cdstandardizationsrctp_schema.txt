@@ -1,0 +1,7 @@
+lang_tp_cd: BIGINT
+standardizationsrc_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(250)(250)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

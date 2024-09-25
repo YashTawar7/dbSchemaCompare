@@ -1,0 +1,10 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+strcode: VARCHAR(40)(40)
+strtype: VARCHAR(8)(8)
+strname: VARCHAR(40)(40)
+strdesc: VARCHAR(255)(255)
+minlen: INTEGER
+maxlen: INTEGER
+freqtot: INTEGER

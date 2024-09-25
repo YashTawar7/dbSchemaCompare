@@ -1,0 +1,9 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+extfunccode: VARCHAR(12)(12)
+extfuncname: VARCHAR(40)(40)
+extinitname: VARCHAR(40)(40)
+extdonename: VARCHAR(40)(40)
+extfuncdesc: VARCHAR(255)(255)
+libcode: VARCHAR(12)(12)

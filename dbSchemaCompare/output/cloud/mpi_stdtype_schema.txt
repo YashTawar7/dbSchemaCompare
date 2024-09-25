@@ -1,0 +1,6 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+stdtypeno: SMALLINT
+stdtype: VARCHAR(8)(8)
+stdtypedesc: VARCHAR(255)(255)

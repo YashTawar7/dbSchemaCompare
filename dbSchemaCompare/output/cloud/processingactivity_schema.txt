@@ -1,0 +1,8 @@
+proc_act_id: BIGINT
+proc_purp_id: BIGINT
+proc_act_tp_cd: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

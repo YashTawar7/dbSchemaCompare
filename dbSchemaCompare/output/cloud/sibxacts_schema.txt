@@ -1,0 +1,2 @@
+xid: VARCHAR(254)(254)
+state: CHAR(1)(1)

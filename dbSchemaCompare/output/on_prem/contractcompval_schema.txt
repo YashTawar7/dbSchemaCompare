@@ -1,0 +1,9 @@
+contr_comp_val_id: BIGINT
+domain_value_tp_cd: BIGINT
+value_string: VARCHAR(50)(50)
+contr_component_id: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

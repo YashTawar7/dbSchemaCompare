@@ -1,0 +1,7 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+evttypeno: SMALLINT
+evttype: VARCHAR(32)(32)
+evttypelabel: VARCHAR(32)(32)
+evttypecat: VARCHAR(32)(32)

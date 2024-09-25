@@ -1,0 +1,15 @@
+h_phone_number_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+phone_number_id: BIGINT
+country_code: VARCHAR(4)(4)
+area_code: VARCHAR(6)(6)
+exchange: VARCHAR(6)(6)
+ph_number: VARCHAR(20)(20)
+extension: VARCHAR(8)(8)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+contact_method_id: BIGINT

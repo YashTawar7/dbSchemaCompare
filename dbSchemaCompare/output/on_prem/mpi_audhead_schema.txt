@@ -1,0 +1,9 @@
+audrecno: BIGINT
+audseqno: SMALLINT
+usrrecno: SMALLINT
+ixnrecno: SMALLINT
+audctime: TIMESTAMP
+evtctime: TIMESTAMP
+evttypeno: SMALLINT
+evtinitiator: VARCHAR(64)(64)
+evtlocation: VARCHAR(32)(32)

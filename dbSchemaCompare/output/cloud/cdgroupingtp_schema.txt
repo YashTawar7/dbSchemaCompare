@@ -1,0 +1,8 @@
+lang_tp_cd: BIGINT
+grouping_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+pme_context_key: VARCHAR(30)(30)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+group_cat_tp_cd: BIGINT

@@ -1,0 +1,7 @@
+workerid: BIGINT
+entrecno: BIGINT
+evtdestno: SMALLINT
+enttypeno: SMALLINT
+evttypeno: SMALLINT
+status: CHAR(1)(1)
+wrkowner: VARCHAR(16)(16)

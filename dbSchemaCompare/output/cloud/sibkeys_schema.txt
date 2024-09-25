@@ -1,0 +1,2 @@
+id: VARCHAR(50)(50)
+last_key: BIGINT

@@ -1,0 +1,15 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+stdfunccode: VARCHAR(12)(12)
+stdfuncname: VARCHAR(40)(40)
+stdinitname: VARCHAR(40)(40)
+stddonename: VARCHAR(40)(40)
+stdfuncdesc: VARCHAR(255)(255)
+libcode: VARCHAR(12)(12)
+minargs: SMALLINT
+maxargs: SMALLINT
+minflds: SMALLINT
+maxflds: SMALLINT
+stdtype1: VARCHAR(8)(8)
+stdtype2: VARCHAR(8)(8)

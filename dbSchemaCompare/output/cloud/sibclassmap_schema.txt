@@ -1,0 +1,2 @@
+classid: INTEGER
+uri: VARCHAR(2048)(2048)

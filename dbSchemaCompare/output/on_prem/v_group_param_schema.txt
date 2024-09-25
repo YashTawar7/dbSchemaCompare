@@ -1,0 +1,6 @@
+param_type: VARCHAR(50)(50)
+validation_code: BIGINT
+param_value: VARCHAR(100)(100)
+description: VARCHAR(50)(50)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

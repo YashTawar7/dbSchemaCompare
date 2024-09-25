@@ -1,0 +1,8 @@
+lang_tp_cd: BIGINT
+event_cat_cd: BIGINT
+category_name: VARCHAR(120)(120)
+event_horizon: BIGINT
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

@@ -1,0 +1,7 @@
+lang_tp_cd: BIGINT
+miscvalue_tp_cd: BIGINT
+miscvalue_cat_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP

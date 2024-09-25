@@ -1,0 +1,11 @@
+question_id: BIGINT
+quesnr_id: BIGINT
+question_sequence: INTEGER
+question_tp_cd: BIGINT
+answer_data_tp_cd: INTEGER
+mandatory: CHAR(1)(1)
+answer_cardinality: SMALLINT
+parent_ques_id: BIGINT
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

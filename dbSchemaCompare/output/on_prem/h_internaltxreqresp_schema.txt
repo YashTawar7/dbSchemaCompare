@@ -1,0 +1,16 @@
+h_interntx_reqresp_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+interntx_reqresp_id: BIGINT
+internal_bus_tx_tp: BIGINT
+application: VARCHAR(50)(50)
+group_name: VARCHAR(50)(50)
+req_resp_ind: CHAR(1)(1)
+tx_param_tp_cd: BIGINT
+param_name: VARCHAR(50)(50)
+param_order: SMALLINT
+collection_ind: CHAR(1)(1)
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

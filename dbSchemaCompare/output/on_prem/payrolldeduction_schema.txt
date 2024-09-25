@@ -1,0 +1,7 @@
+payment_source_id: BIGINT
+employer_name: VARCHAR(255)(255)
+payroll_no: VARCHAR(50)(50)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

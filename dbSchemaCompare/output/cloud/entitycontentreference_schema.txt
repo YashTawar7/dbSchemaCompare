@@ -1,0 +1,16 @@
+content_ref_id: BIGINT
+content_ref_1: VARCHAR(250)(250)
+content_ref_2: VARCHAR(250)(250)
+content_ref_3: VARCHAR(250)(250)
+content_ref_4: VARCHAR(250)(250)
+instance_pk: BIGINT
+entity_name: VARCHAR(250)(250)
+content_version: VARCHAR(250)(250)
+start_date: TIMESTAMP
+end_date: TIMESTAMP
+repository_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)
+document_name: VARCHAR(250)(250)
+author: VARCHAR(250)(250)

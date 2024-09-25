@@ -1,0 +1,6 @@
+notif_type: VARCHAR(255)(255)
+notif_type_value: VARCHAR(255)(255)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

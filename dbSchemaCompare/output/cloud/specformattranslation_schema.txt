@@ -1,0 +1,7 @@
+spec_format_translation_id: BIGINT
+spec_format_id: BIGINT
+lang_tp_cd: BIGINT
+TRANSLATION: CLOB
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

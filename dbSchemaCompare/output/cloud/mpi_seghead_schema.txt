@@ -1,0 +1,11 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+segrecno: INTEGER
+segcode: VARCHAR(12)(12)
+segname: VARCHAR(40)(40)
+objcode: VARCHAR(12)(12)
+hasattr: CHAR(1)(1)
+engineonly: CHAR(1)(1)
+segverno: INTEGER
+hashistory: CHAR(1)(1)

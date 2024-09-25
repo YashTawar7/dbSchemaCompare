@@ -1,0 +1,8 @@
+lang_tp_cd: BIGINT
+syncpurpose_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+sync_component: VARCHAR(200)(200)
+expiry_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

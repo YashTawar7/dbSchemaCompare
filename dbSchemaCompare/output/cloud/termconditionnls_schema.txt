@@ -1,0 +1,8 @@
+condition_nls_id: BIGINT
+condition_id: BIGINT
+lang_tp_cd: BIGINT
+name: VARCHAR(120)(120)
+description: VARCHAR(3000)(3000)
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)

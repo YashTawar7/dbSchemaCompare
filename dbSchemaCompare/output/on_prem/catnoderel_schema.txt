@@ -1,0 +1,8 @@
+cat_node_rel_id: BIGINT
+parent_node_id: BIGINT
+child_node_id: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

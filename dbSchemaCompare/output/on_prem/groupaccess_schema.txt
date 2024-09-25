@@ -1,0 +1,6 @@
+group_access_id: BIGINT
+group_profile_id: BIGINT
+business_tx_tp_cd: BIGINT
+active_ind: CHAR(1)(1)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

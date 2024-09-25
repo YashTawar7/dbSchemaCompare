@@ -1,0 +1,11 @@
+h_component_type_i: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+component_type_id: BIGINT
+dwl_prod_tp_cd: BIGINT
+compon_type_value: VARCHAR(100)(100)
+compon_long_desc: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+component_class: VARCHAR(100)(100)

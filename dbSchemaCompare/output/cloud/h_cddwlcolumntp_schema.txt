@@ -1,0 +1,13 @@
+h_dwlcolumn_tp_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+dwlcolumn_tp_cd: BIGINT
+dwltable_tp_cd: BIGINT
+column_name: VARCHAR(30)(30)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+description: VARCHAR(255)(255)
+locale_sensitive: CHAR(1)(1)
+jdbc_type: VARCHAR(30)(30)

@@ -1,0 +1,7 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+segrecno: INTEGER
+therecno: BIGINT
+propname: VARCHAR(40)(40)
+propval: VARCHAR(255)(255)

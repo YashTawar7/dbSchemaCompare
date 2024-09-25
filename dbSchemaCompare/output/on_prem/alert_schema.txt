@@ -1,0 +1,13 @@
+alert_id: BIGINT
+entity_name: VARCHAR(20)(20)
+instance_pk: BIGINT
+removed_by_user: VARCHAR(20)(20)
+created_by_user: VARCHAR(20)(20)
+alert_tp_cd: BIGINT
+alert_sev_tp_cd: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+description: VARCHAR(1000)(1000)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

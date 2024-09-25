@@ -1,0 +1,5 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+keyname: VARCHAR(40)(40)
+keyval: VARCHAR(255)(255)

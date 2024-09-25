@@ -1,0 +1,15 @@
+category_id: BIGINT
+cat_hierarchy_id: BIGINT
+category_code: VARCHAR(255)(255)
+name: VARCHAR(120)(120)
+description: VARCHAR(255)(255)
+is_root: CHAR(1)(1)
+is_leaf: CHAR(1)(1)
+assoc_ind: CHAR(1)(1)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+uname: VARCHAR(120)(120)
+ucategory_code: VARCHAR(255)(255)

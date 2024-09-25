@@ -1,0 +1,7 @@
+processaction_id: BIGINT
+processcon_id: BIGINT
+entityeventcat_id: BIGINT
+next_process_dt: TIMESTAMP
+event_status: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

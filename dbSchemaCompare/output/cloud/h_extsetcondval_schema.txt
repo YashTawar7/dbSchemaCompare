@@ -1,0 +1,10 @@
+h_extset_condval_i: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+extset_condval_id: BIGINT
+cond_val_tp_cd: BIGINT
+extension_set_id: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

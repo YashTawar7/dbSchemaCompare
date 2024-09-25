@@ -1,0 +1,5 @@
+internal_log_id: BIGINT
+tx_log_id: BIGINT
+internal_bus_tx_tp: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

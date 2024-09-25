@@ -1,0 +1,8 @@
+channel_id: BIGINT
+notif_type: VARCHAR(255)(255)
+implem_classname: VARCHAR(255)(255)
+channel_tp_code: CHAR(1)(1)
+description: VARCHAR(255)(255)
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

@@ -1,0 +1,7 @@
+adapterdef_id: BIGINT
+adapterdef_name: VARCHAR(50)(50)
+adapterdef_vendor: VARCHAR(50)(50)
+adapterdef_impl: VARCHAR(200)(200)
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

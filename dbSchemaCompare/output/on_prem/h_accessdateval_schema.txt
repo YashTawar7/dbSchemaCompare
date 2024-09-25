@@ -1,0 +1,15 @@
+h_acc_date_val_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+acc_date_val_id: BIGINT
+instance_pk: BIGINT
+entity_name: VARCHAR(20)(20)
+col_name: VARCHAR(20)(20)
+description: VARCHAR(1000)(1000)
+last_used_dt: TIMESTAMP
+last_verified_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

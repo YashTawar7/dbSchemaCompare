@@ -1,0 +1,14 @@
+h_workbasket_entity_rel_id: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+workbasket_entity_rel_id: BIGINT
+workbasket_id: BIGINT
+instance_pk: BIGINT
+entity_name: VARCHAR(120)(120)
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT

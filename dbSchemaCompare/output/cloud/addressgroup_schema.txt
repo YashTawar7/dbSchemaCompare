@@ -1,0 +1,7 @@
+location_group_id: BIGINT
+address_id: BIGINT
+care_of_desc: VARCHAR(50)(50)
+addr_usage_tp_cd: BIGINT
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT

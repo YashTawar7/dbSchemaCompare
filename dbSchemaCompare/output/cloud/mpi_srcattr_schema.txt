@@ -1,0 +1,5 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+srcrecno: INTEGER
+attrrecno: SMALLINT

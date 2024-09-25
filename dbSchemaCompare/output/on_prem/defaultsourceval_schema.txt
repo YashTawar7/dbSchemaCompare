@@ -1,0 +1,12 @@
+default_src_val_id: BIGINT
+entity_name: VARCHAR(20)(20)
+instance_pk: BIGINT
+column_name: VARCHAR(20)(20)
+source_value: VARCHAR(100)(100)
+default_value: VARCHAR(100)(100)
+description: VARCHAR(1000)(1000)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+source_ident_tp_cd: BIGINT
+source_identifier: VARCHAR(100)(100)

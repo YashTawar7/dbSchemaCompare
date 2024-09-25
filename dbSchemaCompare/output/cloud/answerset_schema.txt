@@ -1,0 +1,11 @@
+answer_set_id: BIGINT
+quesnr_id: BIGINT
+lang_tp_cd: BIGINT
+answer_party: VARCHAR(255)(255)
+entity_name: VARCHAR(20)(20)
+instance_pk: BIGINT
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_tx_id: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP

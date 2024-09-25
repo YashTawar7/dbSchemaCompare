@@ -1,0 +1,13 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+dvdcode: VARCHAR(12)(12)
+dvdseqno: SMALLINT
+dvdgrp: SMALLINT
+dvdgrplabel: VARCHAR(32)(32)
+bktrole: BIGINT
+minnway: SMALLINT
+maxnway: SMALLINT
+maxbktfreq: INTEGER
+dvdargs: VARCHAR(255)(255)
+dvddesc: VARCHAR(255)(255)

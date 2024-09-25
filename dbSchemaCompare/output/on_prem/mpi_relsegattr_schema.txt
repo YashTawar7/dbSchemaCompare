@@ -1,0 +1,12 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+relattrrecno: SMALLINT
+reltypeno: SMALLINT
+segcode: VARCHAR(12)(12)
+attrcode: VARCHAR(12)(12)
+attrname: VARCHAR(40)(40)
+attrlabel: VARCHAR(40)(40)
+attrdesc: VARCHAR(255)(255)
+nsactive: SMALLINT
+nsexists: SMALLINT

@@ -1,0 +1,15 @@
+task_instance_id: BIGINT
+task_role_assoc_id: BIGINT
+task_action_tp_cd: BIGINT
+task_status_tp_cd: BIGINT
+creator: VARCHAR(80)(80)
+task_owner: VARCHAR(80)(80)
+workbasket_id: BIGINT
+priority_tp_cd: BIGINT
+task_due_dt: TIMESTAMP
+process_id: BIGINT
+creation_dt: TIMESTAMP
+last_comment_id: BIGINT
+last_update_user: VARCHAR(20)(20)
+last_update_dt: TIMESTAMP
+last_update_tx_id: BIGINT

@@ -1,0 +1,7 @@
+search_sql_id: BIGINT
+SEQUENCE: INTEGER
+srch_fld_cd_id: BIGINT
+comp_op_tp_cd: BIGINT
+suppl_ind: CHAR(1)(1)
+last_update_dt: TIMESTAMP
+same_criterion_seq: BIGINT

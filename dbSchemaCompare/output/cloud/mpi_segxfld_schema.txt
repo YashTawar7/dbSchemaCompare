@@ -1,0 +1,12 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+segcode: VARCHAR(12)(12)
+fldseqno: SMALLINT
+fldname: VARCHAR(40)(40)
+fldlabel: VARCHAR(40)(40)
+fldtype: VARCHAR(32)(32)
+fldlength: SMALLINT
+ispkey: CHAR(1)(1)
+isrequired: CHAR(1)(1)
+isvirtual: CHAR(1)(1)

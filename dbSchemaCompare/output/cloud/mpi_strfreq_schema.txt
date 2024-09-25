@@ -1,0 +1,6 @@
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+strcode: VARCHAR(40)(40)
+strval: VARCHAR(255)(255)
+freqval: INTEGER

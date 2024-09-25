@@ -1,0 +1,4 @@
+id: INTEGER
+schema_name: VARCHAR(10)(10)
+table_name: VARCHAR(10)(10)
+table_type: CHAR(1)(1)

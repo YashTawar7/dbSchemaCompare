@@ -1,0 +1,15 @@
+h_lang_tp_cd: BIGINT
+h_eventdef_tp_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+lang_tp_cd: BIGINT
+eventdef_tp_cd: BIGINT
+event_cat_cd: BIGINT
+event_name: VARCHAR(120)(120)
+enable_notify: CHAR(1)(1)
+expiry_dt: TIMESTAMP
+description: VARCHAR(255)(255)
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

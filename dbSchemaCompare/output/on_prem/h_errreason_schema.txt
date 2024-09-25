@@ -1,0 +1,12 @@
+h_err_reason_tp_cd: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+err_reason_tp_cd: BIGINT
+component_type_id: BIGINT
+err_type_cd: VARCHAR(10)(10)
+err_message_tp_cd: BIGINT
+err_severity_tp_cd: BIGINT
+help_id: VARCHAR(10)(10)
+last_update_dt: TIMESTAMP

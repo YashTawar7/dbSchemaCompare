@@ -1,0 +1,7 @@
+noderecno: INTEGER
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+NODENAME: VARCHAR(255)(255)
+nodetype: INTEGER
+noderole: BIGINT

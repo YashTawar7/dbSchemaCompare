@@ -1,0 +1,11 @@
+lang_tp_cd: BIGINT
+proc_purp_tp_cd: BIGINT
+name: VARCHAR(510)(510)
+proc_purp_parent_id: BIGINT
+VERSION: VARCHAR(1000)(1000)
+url: VARCHAR(4000)(4000)
+description: VARCHAR(510)(510)
+successor_id: BIGINT
+expiry_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

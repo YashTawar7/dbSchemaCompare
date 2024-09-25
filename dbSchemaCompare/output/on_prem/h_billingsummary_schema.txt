@@ -1,0 +1,34 @@
+h_billing_summary_: BIGINT
+h_action_code: CHAR(1)(1)
+h_created_by: VARCHAR(20)(20)
+h_create_dt: TIMESTAMP
+h_end_dt: TIMESTAMP
+billing_summary_id: BIGINT
+billing_st_tp_cd: BIGINT
+pymt_mthd_tp_cd: BIGINT
+last_py_md_tp_cd: BIGINT
+effective_date: TIMESTAMP
+due_date: TIMESTAMP
+account_balance: DECIMAL(17, 3)
+min_payment: DECIMAL(17, 3)
+max_payment: DECIMAL(17, 3)
+paid_to_date: TIMESTAMP
+invoice_id: VARCHAR(50)(50)
+bill_from_date: TIMESTAMP
+bill_to_date: TIMESTAMP
+account_id: VARCHAR(50)(50)
+payment_source_id: BIGINT
+withdrawal_date: TIMESTAMP
+last_payment_amt: DECIMAL(17, 3)
+last_payment_dt: TIMESTAMP
+payments_remaining: INTEGER
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)
+last_update_tx_id: BIGINT
+freq_mode_tp_cd: BIGINT
+contract_id: BIGINT
+contr_component_id: BIGINT
+accbala_cur_tp: BIGINT
+minpaym_cur_tp: BIGINT
+maxpaym_cur_tp: BIGINT
+lastpay_cur_tp: BIGINT

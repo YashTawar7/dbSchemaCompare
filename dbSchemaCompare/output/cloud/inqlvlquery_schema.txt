@@ -1,0 +1,9 @@
+inqlvlquery_id: BIGINT
+inqlvl_id: BIGINT
+inqlvlquery_tp_cd: BIGINT
+business_tx_tp_cd: BIGINT
+sql_statement: CLOB
+start_dt: TIMESTAMP
+end_dt: TIMESTAMP
+last_update_dt: TIMESTAMP
+last_update_user: VARCHAR(20)(20)

@@ -1,0 +1,15 @@
+memrecno: BIGINT
+memseqno: INTEGER
+caudrecno: BIGINT
+maudrecno: BIGINT
+recstat: CHAR(1)(1)
+attrrecno: SMALLINT
+asaidxno: SMALLINT
+accnum: VARCHAR(20)(20)
+studate: TIMESTAMP
+studyid: VARCHAR(64)(64)
+refphys: VARCHAR(40)(40)
+studesc: VARCHAR(64)(64)
+stumod: VARCHAR(60)(60)
+frmcnt: INTEGER
+pacsid: VARCHAR(180)(180)
